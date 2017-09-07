@@ -1,0 +1,6 @@
+C:\Users\danielw\Documents\2 - Apprenticeship Work Level 4\Extra Projects\HTML5-API\HTML5-API\bin\HTML5-API.dll.config
+C:\Users\danielw\Documents\2 - Apprenticeship Work Level 4\Extra Projects\HTML5-API\HTML5-API\bin\HTML5-API.dll
+C:\Users\danielw\Documents\2 - Apprenticeship Work Level 4\Extra Projects\HTML5-API\HTML5-API\bin\HTML5-API.pdb
+C:\Users\danielw\Documents\2 - Apprenticeship Work Level 4\Extra Projects\HTML5-API\HTML5-API\obj\Debug\HTML5-API.csprojResolveAssemblyReference.cache
+C:\Users\danielw\Documents\2 - Apprenticeship Work Level 4\Extra Projects\HTML5-API\HTML5-API\obj\Debug\HTML5-API.dll
+C:\Users\danielw\Documents\2 - Apprenticeship Work Level 4\Extra Projects\HTML5-API\HTML5-API\obj\Debug\HTML5-API.pdb

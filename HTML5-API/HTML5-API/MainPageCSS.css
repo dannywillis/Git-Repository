@@ -1,0 +1,48 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+    height: 1500px;
+}
+
+span {
+    font-style: italic;
+}
+
+title {
+    padding-bottom: 40px;
+}
+
+#box {
+    width: 220px;
+    height: 150px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+#CappImage {
+    width: 200px;
+    height: 200px;
+}
+
+.DD{
+    color: #127ecf;
+}
+
+.VAPC{
+    color: #127ecf;
+    margin-bottom: 0px;
+}
+
+.GEO{
+    padding-top: 10px;
+    color: #127ecf
+}
+
+.Video{
+    width: 400px;
+    height: 300px;   
+}
+
+#map{
+    width: 500px;
+    height:500px;
+}

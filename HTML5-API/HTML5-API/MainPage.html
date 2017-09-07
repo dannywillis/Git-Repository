@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>HTML5 API's</title>
+    <link href="MainPageCSS.css" rel="stylesheet" type="text/css"/>
+    <script src="MainPageJS.js" type="text/javascript"></script>
+</head>
+<body>
+    <h1 class="title">HTML5 API's</h1>
+    <h2 class="DD">- Drag & Drop - </h2>
+    <h4>Drag the Capp Logo into the box...</h4>
+    <div id="box" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+    <img id="CappImage" src="http://practice.cappassessments.com/Content/images/capp_logo.png" draggable="true" ondragstart="drag(event)" />
+
+
+    <h2 class="VAPC">- Video AutoPlay & Controls -</h2>
+    <video controls autoplay class="Video">
+        <source src="https://media.w3.org/2010/05/sintel/trailer.mp4" type="audio/mp4"/>
+    </video>
+
+
+    <h2 class="GEO">- Geolocation -</h2>
+    <div id="map"></div>
+    <script src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAzlUaOPHG_P8pTX_3D78rK9xV5P_bnxPw&callback=initMap"></script>
+
+</body>
+</html>
